@@ -1,3 +1,11 @@
+---
+category: BComponents
+type: General
+title: Tags
+subtitle: 受控标签组件
+cols: 1
+---
+
 
 # Tags 组件
 

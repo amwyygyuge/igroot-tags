@@ -1,2 +1,2 @@
-import Component from './tags'
+import Component from './Tags'
 export default Component
